@@ -34,5 +34,5 @@ Kolo is a full-stack banking application designed for stock monitoring, shares p
 
 2. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/kolo-banking-app.git
+   git clone https://github.com/Dave-eko-2001/kolo-banking-app.git
    cd kolo-banking-app
